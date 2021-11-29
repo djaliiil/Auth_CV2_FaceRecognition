@@ -1,0 +1,7 @@
+numpy
+keras
+tensorflow
+face_recognition
+opencv-python
+pyqt5
+pymongo
